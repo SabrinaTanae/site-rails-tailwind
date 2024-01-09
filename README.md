@@ -1,2 +1,2 @@
-# site rails tailwind
+# site rails recriado usando tailwind
  
